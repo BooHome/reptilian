@@ -44,7 +44,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>  <!-- jsoup用于解析html用的 -->
             <artifactId>jsoup</artifactId>
-            <version>1.11.3</version>
+            <version>1.15.3</version>
         </dependency>
         <dependency>
             <groupId>com.jshq</groupId>
